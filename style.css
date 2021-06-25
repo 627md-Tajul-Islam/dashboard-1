@@ -6,3 +6,17 @@ body {
 	margin: 0 auto;
 	border-radius: 5px;
 }
+.reverse{
+    padding: 10px;
+    border-radius: 5px;
+    outline-style: none;
+    background-color: greenyellow;
+    font-size: larger;
+}
+.restart{
+    padding: 10px;
+    border-radius: 5px;
+    outline-style: none;
+    background-color: indianred;
+    font-size: larger;
+}
